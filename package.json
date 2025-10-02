@@ -1,5 +1,5 @@
 {
-  "name": "bolt",
+  "name": "Inovex",
   "description": "An AI Agent",
   "private": true,
   "license": "MIT",
@@ -7,8 +7,8 @@
   "type": "module",
   "version": "1.0.0",
   "author": {
-    "name": "bolt.diy team",
-    "email": "maintainers@bolt.diy"
+    "name": "Inovex",
+    "email": "anshukreddy13@gmail.com"
   },
   "scripts": {
     "deploy": "npm run build && wrangler pages deploy",
